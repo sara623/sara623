@@ -1,4 +1,3 @@
-
 ### Let me introduce myself
 
 Hi, I'm sara623.
@@ -8,6 +7,16 @@ I'm studying Data Science using Python.
 Currently I'm not good at IT field including Python.
 
 But I'm gonna do my best!
+
+### I can speak..
+
+- Korean
+- English
+- Japanese
+- Chinese
+- Java
+- JavaScript
+- Python
 
 <!--
 **sara623/sara623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
