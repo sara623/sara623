@@ -1,10 +1,12 @@
-### Hi there 👋
 
 ### Let me introduce myself
 
 Hi, I'm sara623.
+
 I'm studying Data Science using Python.
+
 Currently I'm not good at IT field including Python.
+
 But I'm gonna do my best!
 
 <!--
